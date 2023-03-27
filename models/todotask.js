@@ -1,3 +1,4 @@
+//mongoose schema for todo list
 const mongoose = require('mongoose');
 const todoTaskSchema = new mongoose.Schema({
 title: {
